@@ -1,4 +1,10 @@
 # Laboratorio-git
 Ketzalli Sanchez
 
-## cambios en repo remoto
+## Cambios en repo remoto
+
+
+![logogit](/Imagenes/logogit.png)´
+
+
+
